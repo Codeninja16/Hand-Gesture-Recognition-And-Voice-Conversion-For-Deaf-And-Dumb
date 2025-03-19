@@ -1,1 +1,1 @@
-# Hand-Gesture-Recognition-And-Voice-Conversion-For-Deaf-And-Dumb
+#Recognition of Hand Gesture-And-Voice-Conversion-For-Deaf-And-Dumb
